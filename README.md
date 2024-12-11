@@ -22,9 +22,9 @@ This project is a simple REST API built using **Node.js** and **Express** that p
 - **Request Body**:
   ```json
   {
-    "name": "John Doe",
-    "email": "john@example.com",
-    "age": 30
+    "name": "sarvesh koshti",
+    "email": "sarvesh@example.com",
+    "age": 20
   }
   ```
 - **Response**: Returns the created user with a unique `id`.
